@@ -1,0 +1,16 @@
+{
+  "name": "userinput",
+  "version": "0.0.1",
+  "private": true,
+  "description": "Get a user input and validating it",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "Freddy Roosevelt",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^3.25.0"
+  }
+}
