@@ -1,5 +1,5 @@
 #Getting a user firstname and lastname input via the command line.
-# and also Validating and Requiring user input with --help commands
+# also Validating and Requiring user input with --help commands
 
 ## Make sure you first run: npm install for node modules
 
